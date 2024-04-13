@@ -77,5 +77,4 @@ Feel free to use and modify the code as per your requirements.
 
 ## Acknowledgments
 
-- The population growth data used in this analysis is sourced from [source name or URL].
 - Thanks to the developers of the Pandas, NumPy, Matplotlib, and Plotly libraries for their valuable contributions to the Python data analysis ecosystem.
