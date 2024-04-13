@@ -19,7 +19,7 @@ To run this project, you need to have the following Python libraries installed:
 
 You can install these libraries using pip:
 
-```python
+```bash
 pip install pandas numpy matplotlib plotly
 ```
 
@@ -79,3 +79,4 @@ Feel free to use and modify the code as per your requirements.
 ## Acknowledgments
 
 - Thanks to the developers of the Pandas, NumPy, Matplotlib, and Plotly libraries for their valuable contributions to the Python data analysis ecosystem.
+
