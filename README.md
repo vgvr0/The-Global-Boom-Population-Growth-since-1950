@@ -19,8 +19,9 @@ To run this project, you need to have the following Python libraries installed:
 
 You can install these libraries using pip:
 
-> pip install pandas numpy matplotlib plotly
-
+```python
+pip install pandas numpy matplotlib plotly
+```
 
 ## Usage
 
